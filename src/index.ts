@@ -1,5 +1,5 @@
-import Workflow from "./model/Workflow";
+import Tree from "./model/Tree";
 
-let w: Workflow = new Workflow (3,"aaa");
+let t: Tree = new Tree ("aaa");
 
-console.log (w);
+console.log (t);
